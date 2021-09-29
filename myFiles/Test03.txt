@@ -1,1 +1,1 @@
-"Currently I am studying CSD111 Course." I learnt Windows CMD Commands, LINUX and GIT Commands. It is interesting.
+"I am learning GIT now"
